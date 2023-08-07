@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mi-app/static/css/main.e6c13ad2.css",
+    "main.js": "/mi-app/static/js/main.bc16f69e.js",
+    "static/js/787.fc6c31ee.chunk.js": "/mi-app/static/js/787.fc6c31ee.chunk.js",
+    "index.html": "/mi-app/index.html",
+    "main.e6c13ad2.css.map": "/mi-app/static/css/main.e6c13ad2.css.map",
+    "main.bc16f69e.js.map": "/mi-app/static/js/main.bc16f69e.js.map",
+    "787.fc6c31ee.chunk.js.map": "/mi-app/static/js/787.fc6c31ee.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.bc16f69e.js"
+  ]
+}
